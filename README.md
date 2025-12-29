@@ -1,16 +1,37 @@
-## Hi there 👋
+<p align="center">
+  <img src="banner.png" alt="banner" />
+</p>
 
-<!--
-**manojksingh0272-star/manojksingh0272-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey 👋 I'm Manoj Kumar
 
-Here are some ideas to get you started:
+I'm a **Web3 & Blockchain learner** with a strong interest in decentralized systems, smart contracts, and open-source technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning by building, experimenting with new tools, and improving my understanding of how blockchain works in real-world applications.
+
+---
+
+### Areas I'm Exploring 🥑
+- Blockchain fundamentals
+- Web3 architecture & concepts
+- Smart contracts (beginner level)
+- Decentralized applications (dApps)
+
+---
+
+### Tools & Technologies 💻
+- JavaScript
+- HTML & CSS
+- Git & GitHub
+- Web3 tools (learning phase)
+
+---
+
+### Currently Focused On 🎧
+- Strengthening blockchain basics
+- Understanding on-chain vs off-chain systems
+- Learning how Web3 products are built
+
+---
+
+### Get in Touch 🤝
+- Grab a time slot here (OR) shoot me an email at manojksingh0272@gmail.com. I’ll get back to you soon! :)
